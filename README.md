@@ -1,7 +1,5 @@
 # aut0-p1vot
 
-![Banner](http://34.198.104.205/banner.png)
-
 ## Disclaimer
 Aut0p1vot is developed with the intension of using this tool only for educational purpose.  
 > Learn - Hack - Secure :upside_down_face:	
@@ -23,7 +21,7 @@ Aut0p1vot is developed with the intension of using this tool only for educationa
 Just clone the repository and get started
 
 ```bash
-git clone https://github.com/karthikgenius/aut0-p1vot.git
+git clone https://github.com/AkhilaMadduri/aut0-p1vot.git
 cd aut0p1vot
 chmod +x aut0p1vot.sh
 ```
@@ -40,7 +38,7 @@ Make sure you are in the aut0p1vot directory.
 
 ## Contribution
 * If you noticed any bugs, report me in twitter:
-[KarthikSainadh](https://twitter.com/Karthikgenius19)  
+[LakshmiAkhila](https://twitter.com/LakshmiAkhila1)  
 * If you would like to include some major changes let me know.
 
 ## License
