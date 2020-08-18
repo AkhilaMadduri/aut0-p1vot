@@ -2,7 +2,7 @@
 
 ## Disclaimer
 Aut0p1vot is developed with the intension of using this tool only for educational purpose.  
-> Learn - Hack - Secure :upside_down_face:	
+> Learn - Hack - Secure 	
 
 ## Description
 #### v1.0  
@@ -11,11 +11,11 @@ Aut0p1vot is developed with the intension of using this tool only for educationa
 
 
 ## Features
-* One Command Execution :star_struck:	.  
-* Suitable for training the server and network security :slightly_smiling_face:	.  
-* Fully automated :innocent:	. 
-* Source Libraries available, so you can modify the script as you understand the libraries :smiley:	 .  
-* Friendly Author :wink: .  
+* One Command Execution.  
+* Suitable for training the server and network security.  
+* Fully automated. 
+* Source Libraries available, so you can modify the script as you understand the libraries.  
+* Friendly Author.  
 
 ## Installation
 Just clone the repository and get started
