@@ -37,8 +37,7 @@ Make sure you are in the aut0p1vot directory.
 * And any other customization can be easily done by simply changing variable values.
 
 ## Contribution
-* If you noticed any bugs, report me in twitter:
-[LakshmiAkhila](https://twitter.com/LakshmiAkhila1)  
+* If you noticed any bugs, report to master.
 * If you would like to include some major changes let me know.
 
 ## License
